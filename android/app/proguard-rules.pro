@@ -1,0 +1,2 @@
+-keep class com.smmrace.vfcash.** { *; }
+-keepattributes *Annotation*
